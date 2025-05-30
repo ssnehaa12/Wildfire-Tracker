@@ -1,4 +1,4 @@
-California Wildfires Prediction
+# California Wildfires Prediction
 <br>
 California has suffered greatly from wildfires in recent years, with serious repercussions for its people, environment, and economy. The diverse terrain of the state, along with climate change and human activities, has left it susceptible to regular and severe wildfires. These fires not only act as direct threats to life and property but also cause enduring damage to the environment, atmospheric conditions, and community health. It's essential to grasp the underlying patterns and reasons behind these wildfires to manage, prevent, and reduce their effects more effectively.
 
